@@ -1,31 +1,21 @@
-Future Imperfect by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Teaching Portfolio:
 
+Welcome to my Teaching Portfolio, here is what you need to know:
 
-It's been a long time coming, but I've finally gotten around to creating a brand new
-blog-style template (and the first since Striped, which came out waaaaay back in 2013).
-Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
-and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
-action. Enjoy it :)
+Structure:
+- Home Page 
+- About me Page 
+- Teaching Philosophy 
+- Perfessional Development 
+- Resources 
+- Resume & Contact 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+In each section, you can expect:
+- Home Page - begin reading introduction information and click links to other pages while listening to relaxing music (a personal favourite song)
+- About Me Page - read personal information and flip each image to read more about Porsha. 
+- Teaching Philosophy - read Porsha's Philosophy 
+- Perfessional Development - click the link to the ACU degree, view previous TECH projects and the list of completed TAS units. 
+- Resources - list of teacher and student TAS resources with links attached to the actual documents. 
+- Resume & Contact - Porsha's resume and a contact form for viewers to fill out. 
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+(All pages have a "next page, previous page" button, connecting all pages together). 
